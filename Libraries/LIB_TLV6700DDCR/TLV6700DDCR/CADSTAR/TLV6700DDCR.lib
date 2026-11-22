@@ -1,0 +1,18 @@
+.TLV6700DDCR :1 ;TLV6700 Micropower, 18V Window Comparator with 400mV Reference
+SOT95P280X110-6N
+*STM IC
+*NGS
+*PLB 1="OUTA" 2="GND" 3="INA+" 4="INB-" 5="VDD" 6="OUTB"
+*MXP 6
+*DFN TLV6700DDCR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TLV6700DDCR)
+~!Mouser Part Number (595-TLV6700DDCR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV6700DDCR?qs=r5DSvlrkXmIgfUTYRQlC3A%3D%3D)
+~!Arrow Part Number (TLV6700DDCR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tlv6700ddcr/texas-instruments.html?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tlv6700)
+~!Height (1.1mm)
+~!3D_Model (TLV6700DDCR)
+TLV6700DDCR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

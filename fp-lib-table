@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1064") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_1064/1064/KiCad") (options "") (descr "Project footprint library"))
+  (lib (name "ABM8-272-T3") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_ABM8-272-T3/ABM8-272-T3/KiCad") (options "") (descr "Project footprint library"))
+  (lib (name "Molex 53261-0271") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_53261-0271/53261-0271/KiCad") (options "") (descr "Project footprint library"))
+  (lib (name "TLV1117LV33DCYR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/TLV1117LV33DCYR") (options "") (descr "Project footprint library"))
+  (lib (name "TLV6700DDCR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_TLV6700DDCR/TLV6700DDCR/KiCad") (options "") (descr "Project footprint library"))
+)

@@ -1,0 +1,18 @@
+.SN74HC74DR :1 ;Dual D-Type Positive-Edge-Triggered Flip-Flops With Clear and Preset
+SOIC127P600X175-14N
+*STM IC
+*NGS
+*PLB 1="1'CLR'" 2="1D" 3="1 CLK" 4="1'PRE'" 5="1Q" 6="1'Q'" 7="GND" 8="2'Q'" 9="2Q" 10="2'PRE'" 11="2CLK" 12="2D" 13="2'CLR'" 14="VCC"
+*MXP 14
+*DFN SN74HC74DR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74HC74DR)
+~!Mouser Part Number (595-SN74HC74DR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HC74DR?qs=8k%2FZSzWMuCN9TRJChsK82A%3D%3D)
+~!Arrow Part Number (SN74HC74DR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sn74hc74dr/texas-instruments.html?utm_currency=USD&region=asia)
+~!Link Datasheet (http://www.ti.com/lit/gpn/sn54hc74)
+~!Height (1.75mm)
+~!3D_Model (SN74HC74DR)
+SN74HC74DR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 
