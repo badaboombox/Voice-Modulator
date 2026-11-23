@@ -5,4 +5,5 @@
   (lib (name "Molex 53261-0271") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_53261-0271/53261-0271/KiCad") (options "") (descr "Project footprint library"))
   (lib (name "TLV1117LV33DCYR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/TLV1117LV33DCYR") (options "") (descr "Project footprint library"))
   (lib (name "TLV6700DDCR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_TLV6700DDCR/TLV6700DDCR/KiCad") (options "") (descr "Project footprint library"))
+  (lib (name "TLV320AIC3104IRHBR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LIB_TLV320AIC3104IRHBR/TLV320AIC3104IRHBR/KiCad") (options "") (descr "TI RHB0032E"))
 )

@@ -1,7 +1,6 @@
 # Voice Modulator
 
-[PCB_LAYOUT.md](PCB_LAYOUT.md): first-pass 95 x 65-mm placement, preview,
-checks and routing setup (2026-11-22). The PCB is placed and unrouted.
+The codec/speaker layout is fully routed. [Layout notes and layer plots](PCB_LAYOUT.md)
 
 **Rev A.2 electrical plan locked for schematic capture — 2026-11-21.**
 
