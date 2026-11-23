@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=SN74HC74DR
-PartCategory=Integrated Circuit
-PackageCategory=Small Outline Packages
-PinCount=14
-Version=4.1
-Released=2019-09-26 14:51:34
-Downloaded=2026-11-22 01:50:32
-3D=Y

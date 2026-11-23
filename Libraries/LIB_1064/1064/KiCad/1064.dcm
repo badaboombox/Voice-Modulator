@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 1064
-D ADAFRUIT - 1064 - Electret Microphone - 20Hz-20KHz Omnidirectional
-K
-F https://cdn-shop.adafruit.com/datasheets/CMA-4544PF-W.pdf
-$ENDCMP
-#
-#End Doc Library

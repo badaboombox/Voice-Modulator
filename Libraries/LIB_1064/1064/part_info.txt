@@ -1,9 +1,0 @@
-Manufacturer=Adafruit
-PartNumber=1064
-PartCategory=Microphone
-PackageCategory=Other
-PinCount=2
-Version=1.2
-Released=2020-02-28 11:46:48
-Downloaded=2026-11-22 03:55:41
-3D=Y
