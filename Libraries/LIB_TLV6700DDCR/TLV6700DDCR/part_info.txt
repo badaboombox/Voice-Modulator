@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TLV6700DDCR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2018-11-22 06:53:27
+Downloaded=2026-11-22 02:39:14
+3D=Y

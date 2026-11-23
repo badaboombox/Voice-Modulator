@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV6700DDCR
+D TLV6700 Micropower, 18V Window Comparator with 400mV Reference
+K
+F http://www.ti.com/lit/gpn/tlv6700
+$ENDCMP
+#
+#End Doc Library

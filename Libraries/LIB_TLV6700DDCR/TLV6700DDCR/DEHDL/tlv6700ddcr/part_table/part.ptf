@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLV6700DDCR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TLV6700DDCR" (!) = "", "SOT95P280X110-6N", "SOT23 (6-Pin)", "595-TLV6700DDCR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV6700DDCR?qs=r5DSvlrkXmIgfUTYRQlC3A%3D%3D", "TLV6700DDCR", "https://www.arrow.com/en/products/tlv6700ddcr/texas-instruments.html?utm_currency=USD&region=nac", "TLV6700 Micropower, 18V Window Comparator with 400mV Reference", "http://www.ti.com/lit/gpn/tlv6700", "1.1 mm"
+END_PART
+
+END.

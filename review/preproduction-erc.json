@@ -1,0 +1,157 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-11-22T19:21:53",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.3",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684",
+            "violations": [
+                {
+                    "description": "Symbol 'TLV6700DDCR' doesn't match copy in library 'TLV6700DDCR'",
+                    "items": [
+                        {
+                            "description": "Symbol U14 [TLV6700DDCR]",
+                            "pos": {
+                                "x": 1.2065,
+                                "y": 1.0287
+                            },
+                            "uuid": "46775a86-665f-465b-90de-f625199f1ebd"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'TLV1117LV33DCYR' doesn't match copy in library 'TLV1117LV33DCYR'",
+                    "items": [
+                        {
+                            "description": "Symbol U2 [TLV1117LV33DCYR]",
+                            "pos": {
+                                "x": 1.9431,
+                                "y": 1.016
+                            },
+                            "uuid": "2c9bfdd9-509b-45e9-b145-44f64d6008b7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'TPS259531DSGR' doesn't match copy in library 'TPS259531DSGR'",
+                    "items": [
+                        {
+                            "description": "Symbol U1 [TPS259531DSGR]",
+                            "pos": {
+                                "x": 2.0447,
+                                "y": 0.5334
+                            },
+                            "uuid": "20138846-3b5f-4d59-9037-89303c9ef5fa"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'TLC555xD' doesn't match copy in library 'Timer'",
+                    "items": [
+                        {
+                            "description": "Symbol U10 [TLC555xD]",
+                            "pos": {
+                                "x": 2.4257,
+                                "y": 1.1303
+                            },
+                            "uuid": "6a9310da-c701-4204-b361-bab07cb17a40"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'ABM8-272-T3' doesn't match copy in library 'ABM8-272-T3'",
+                    "items": [
+                        {
+                            "description": "Symbol Y1 [ABM8-272-T3]",
+                            "pos": {
+                                "x": 0.1778,
+                                "y": 0.9525
+                            },
+                            "uuid": "dc1607f9-9600-48e3-9be8-cc129a18135d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'TLV320AIC3104IRHBR' doesn't match copy in library 'TLV320AIC3104IRHBR'",
+                    "items": [
+                        {
+                            "description": "Symbol U6 [TLV320AIC3104IRHBR]",
+                            "pos": {
+                                "x": 0.9525,
+                                "y": 0.8509
+                            },
+                            "uuid": "75d8f492-4e3f-4be2-8232-fb86c2f7c630"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                }
+            ]
+        },
+        {
+            "path": "/Power + USB/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684/b95e55cb-d77d-4496-b5db-1adacdab5dea",
+            "violations": []
+        },
+        {
+            "path": "/MCU + Storage/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684/9a0784d5-3cff-4003-9808-cff5e0d5fc33",
+            "violations": []
+        },
+        {
+            "path": "/Microphone/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684/fabde1c2-532e-44a4-97fb-1ecdb1cd0123",
+            "violations": []
+        },
+        {
+            "path": "/Modulation/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684/a18094e1-8759-49c9-9e73-65da40d998ec",
+            "violations": []
+        },
+        {
+            "path": "/Codec/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684/ef58124d-c55d-422e-8daf-19dd168004fb",
+            "violations": []
+        },
+        {
+            "path": "/Speaker + Controls/",
+            "uuid_path": "/f5da77f4-ff53-4a8c-8bc3-0373c8a77684/2486bc86-029e-4b14-877b-3a31df1d91a9",
+            "violations": []
+        }
+    ],
+    "source": "Voice Modulator.kicad_sch"
+}

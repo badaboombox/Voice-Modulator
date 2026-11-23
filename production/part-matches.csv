@@ -1,0 +1,67 @@
+Designator,Manufacturer part or requirement,LCSC Part #,Catalog,Mounting
+"C1,C19,C22,C23,C24,C25,C33,C39,C41,C42,C54,C55,C59,C60,C70,C71,C72,C73",CL21B105KAFNNNE,C116352,https://www.lcsc.com/product-detail/C116352.html,SMT
+"C2,C5,C8,C11,C12,C13,C14,C15,C16,C18,C20,C21,C26,C28,C29,C31,C32,C35,C37,C38,C43,C44,C45,C46,C47,C48,C49,C50,C51,C56,C58,C61,C62,C65,C67,C68,C69,C76,C78",CL05B104KO5NNNC,C1525,https://www.lcsc.com/product-detail/C1525.html,SMT
+C3,0402B474K100CT,C2443202,https://www.lcsc.com/product-detail/C2443202.html,SMT
+"C4,C66",EEUFR1E470,C407893,https://www.lcsc.com/product-detail/C407893.html,Through-hole
+"C6,C17,C34,C36,C77",GRM31CR71C106KA12L,C97954,https://www.lcsc.com/product-detail/C97954.html,SMT
+"C7,C27",FG20X7R1C226MRT00,C3694690,https://www.lcsc.com/product-detail/C3694690.html,Through-hole
+"C9,C10",VJ0402A150FLAAJ32,C1514440,https://www.lcsc.com/product-detail/C1514440.html,SMT
+C40,0402CG220J500NT,C1555,https://www.lcsc.com/product-detail/C1555.html,SMT
+"C52,C53",CL05C102JB5NNNC,C307441,https://www.lcsc.com/product-detail/C307441.html,SMT
+C57,GRM1555C1H103JE01D,C22400107,https://www.lcsc.com/product-detail/C22400107.html,SMT
+C63,CL05B103KB5NNNC,C15195,https://www.lcsc.com/product-detail/C15195.html,SMT
+C64,GRM155R71E473JA88D,C437528,https://www.lcsc.com/product-detail/C437528.html,SMT
+"C74,C75",EEUFR1A221,C407869,https://www.lcsc.com/product-detail/C407869.html,Through-hole
+D1,USBLC6-2SC6,C7519,https://www.lcsc.com/product-detail/C7519.html,SMT
+D2,SMF6V0A-HM3-18,C1979297,https://www.lcsc.com/product-detail/C1979297.html,SMT
+"D3,D4",17-21SURC/S530-A3/TR8,C72037,https://www.lcsc.com/product-detail/C72037.html,SMT
+D5,KT-0805G,C2297,https://www.lcsc.com/product-detail/C2297.html,SMT
+"D6,D7","PESD5V0S1BA,115",C19224,https://www.lcsc.com/product-detail/C19224.html,SMT
+FB1,BLM18AG601SN1D,C19330,https://www.lcsc.com/product-detail/C19330.html,SMT
+"FB2,FB3",BLM21PG221SN1D,C85840,https://www.lcsc.com/product-detail/C85840.html,SMT
+J1,USB4105-GF-A,C3020560,https://www.lcsc.com/product-detail/C3020560.html,Through-hole
+J2,53261-0271,C177225,https://www.lcsc.com/product-detail/C177225.html,SMT
+J3,SJ-3523-SMT-TR,C4991872,https://www.lcsc.com/product-detail/C4991872.html,SMT
+J5,PZ127-2-07-Z,C5372811,https://www.lcsc.com/product-detail/C5372811.html,Through-hole
+MK1,CMA-4544PF-W,C3273770,https://www.lcsc.com/product-detail/C3273770.html,Through-hole
+"R1,R2",0402WGF5101TCE,C25905,https://www.lcsc.com/product-detail/C25905.html,SMT
+R3,RC0402FR-074K42L,C137967,https://www.lcsc.com/product-detail/C137967.html,SMT
+R4,RC0402FR-07237KP,C6263572,https://www.lcsc.com/product-detail/C6263572.html,SMT
+"R5,R24,R25,R48,R49,R60,R61",0402WGF1003TCE,C25741,https://www.lcsc.com/product-detail/C25741.html,SMT
+"R6,R16,R19,R20,R27,R29,R30,R31,R32,R33,R44,R56,R59,R64,R65,R66",0402WGF1002TCE,C25744,https://www.lcsc.com/product-detail/C25744.html,SMT
+"R7,R8,R35,R51,R55,R58",RC0402FR-072K2L,C114762,https://www.lcsc.com/product-detail/C114762.html,SMT
+"R9,R22,R23,R26,R39,R40,R41",0402WGF330JTCE,C25105,https://www.lcsc.com/product-detail/C25105.html,SMT
+"R10,R11",0402WGF270JTCE,C25100,https://www.lcsc.com/product-detail/C25100.html,SMT
+"R12,R13",RC0402FR-0749R9L,C87044,https://www.lcsc.com/product-detail/C87044.html,SMT
+R14,RE0402BRE07619KL,C7042129,https://www.lcsc.com/product-detail/C7042129.html,SMT
+"R15,R18",ERA2AEB104X,C445619,https://www.lcsc.com/product-detail/C445619.html,SMT
+R17,1.23 MOhm 0.1% 0402,,,SMT
+"R21,R28,R34,R36,R57,R67,R69,R70,R71",0402WGF1001TCE,C11702,https://www.lcsc.com/product-detail/C11702.html,SMT
+"R37,R38",RC0402FR-0722KL,C82868,https://www.lcsc.com/product-detail/C82868.html,SMT
+"R42,R43",0402WGF2200TCE,C25091,https://www.lcsc.com/product-detail/C25091.html,SMT
+"R45,R46",RT0402BRD0710KL,C190095,https://www.lcsc.com/product-detail/C190095.html,SMT
+R47,0402WGF1004TCE,C26083,https://www.lcsc.com/product-detail/C26083.html,SMT
+R50,0402WGF4701TCE,C25900,https://www.lcsc.com/product-detail/C25900.html,SMT
+"R52,R68",0402WGF1000TCE,C25076,https://www.lcsc.com/product-detail/C25076.html,SMT
+R53,Bourns PTV09A-1 100k linear no detent,,,Through-hole
+R54,Bourns PTV09A-1 20k linear no detent,,,Through-hole
+"R62,R63",RC0402FR-0710RL,C138066,https://www.lcsc.com/product-detail/C138066.html,SMT
+RV1,3296W-1-503LF,C83686,https://www.lcsc.com/product-detail/C83686.html,Through-hole
+"RV2,RV4",Bourns PTV09A-1 10k linear no detent,,,Through-hole
+RV3,3296W-1-103LF,C34846,https://www.lcsc.com/product-detail/C34846.html,Through-hole
+"SW1,SW2,SW4,SW5",PTS645SL43-2LFS,C285482,https://www.lcsc.com/product-detail/C285482.html,Through-hole
+"SW3,SW6",EG2219,C3664594,https://www.lcsc.com/product-detail/C3664594.html,Through-hole
+U1,TPS259531DSGR,C2155674,https://www.lcsc.com/product-detail/C2155674.html,SMT
+U2,TLV1117LV33DCYR,C15578,https://www.lcsc.com/product-detail/C15578.html,SMT
+U3,RP2040,C2040,https://www.lcsc.com/product-detail/C2040.html,SMT
+"U4,U13",W25Q128JVSIQ,C2613931,https://www.lcsc.com/product-detail/C2613931.html,SMT
+U5,MCP6002-I/SN,C116706,https://www.lcsc.com/product-detail/C116706.html,SMT
+U6,TLV320AIC3104IRHBR,C181753,https://www.lcsc.com/product-detail/C181753.html,SMT
+U7,TLV70018DDCR,C79924,https://www.lcsc.com/product-detail/C79924.html,SMT
+U8,TLV9064IPWR,C779410,https://www.lcsc.com/product-detail/C779410.html,SMT
+U9,TS5A23157DGSR,C11133,https://www.lcsc.com/product-detail/C11133.html,SMT
+U10,TLC555CDR,C6986,https://www.lcsc.com/product-detail/C6986.html,SMT
+U11,SN74HC74DR,C6762,https://www.lcsc.com/product-detail/C6762.html,SMT
+U12,PAM8403DR,C4990933,https://www.lcsc.com/product-detail/C4990933.html,SMT
+U14,TLV6700DDCR,C2868382,https://www.lcsc.com/product-detail/C2868382.html,SMT
+Y1,ABM8-272-T3,C20625731,https://www.lcsc.com/product-detail/C20625731.html,SMT
